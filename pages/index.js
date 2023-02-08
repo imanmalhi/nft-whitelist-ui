@@ -182,7 +182,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Iman's NFT Project Whitelist</title>
-        <meta name="description" content="Whitelist-Dapp" />
+        <meta name="description" content="Iman's NFT Project Whitelist" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
